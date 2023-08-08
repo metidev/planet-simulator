@@ -50,6 +50,3 @@ Please refer to their repositories for additional insights and inspirations.
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
 
----
-
-*Note: This readme is a fictional example created based on the provided information and does not accurately reflect the contents of the referenced repositories.*
