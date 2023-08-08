@@ -1,6 +1,6 @@
 # Planet Simulator
 
-![Preview](https://github.com/metidev/planet-simulator/blob/main/20230808_193550.mp4)
+![Preview](https://github.com/metidev/planet-simulator/blob/main/planets.gif)
 
 This repository contains a Planet Simulator written in Python using the PyGame library. The simulator allows you to simulate a solar system with planets, their orbits, rotations, and movement. It's a graphics programming example that provides an interactive way to explore the dynamics of celestial bodies.
 
@@ -21,7 +21,7 @@ To run the Planet Simulator, follow these steps:
    ```
    cd planet-simulator
    ```
-5. Run the simulation by executing the `solar.py` script:
+5. Run the simulation by executing the `planets.py` script:
    ```
    python solar.py
    ```
@@ -34,7 +34,7 @@ To run the Planet Simulator, follow these steps:
 
 ## Preview
 
-You can preview the simulation by clicking on the following link: [Preview](https://github.com/metidev/planet-simulator/blob/main/20230808_193550.mp4)
+You can preview the simulation by clicking on the following link: [Preview](https://github.com/metidev/planet-simulator/blob/main/planets.gif)
 
 ## Acknowledgements
 
